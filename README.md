@@ -308,9 +308,9 @@ pytest tests/ --cov=ml_pipeline --cov-report=html
 - Original Project Data: https://docs.google.com/spreadsheets/d/1mgBfMGFgg6H887UYO6M1Eus2RrltYe4STxLmvIST2mM/edit?gid=0#gid=0
 - License Information: https://www.choosealicense.com/
 
-## Authors
+## Author
 
-Justin Blattman and Moiz Uddin
+Moiz Uddin
 
 ## License
 
